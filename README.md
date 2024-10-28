@@ -1,3 +1,3 @@
-# cpsFanucAPI
+# csp-fanuc-api
 
-WIP Repository for CPS API in Fanuc KAREL
+Repository for CPS interaction API in Fanuc KAREL
